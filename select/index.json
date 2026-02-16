@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Mariposa Traicionera",
+  "base_artist": "Maná",
+  "createdAt": "2026-02-16T20:49:52.012523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/01_Mariposa_Traicionera_Maná.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/02_Mariposa_Traicionera_Maná.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera - 2020 Remasterizado",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/03_Mariposa_Traicionera_-_2020_Remasterizado_Maná.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Maná feat. Alejandro Fernández",
+      "has_synced": true,
+      "path": "select/04_Mariposa_Traicionera_Maná_feat._Alejandro_Fernández.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Maná & Alejandro Fernández",
+      "has_synced": true,
+      "path": "select/05_Mariposa_Traicionera_Maná_&_Alejandro_Fernández.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Porte Diferente",
+      "has_synced": true,
+      "path": "select/06_Mariposa_Traicionera_Porte_Diferente.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Mana",
+      "has_synced": true,
+      "path": "select/07_Mariposa_Traicionera_Mana.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "La Alianza Norteña",
+      "has_synced": true,
+      "path": "select/08_Mariposa_Traicionera_La_Alianza_Norteña.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/09_Mariposa_Traicionera_Maná.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/10_Mariposa_Traicionera_Maná.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/11_Mariposa_Traicionera_Maná.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera  (2020 Remasterizado)",
+      "artist": "Mana",
+      "has_synced": true,
+      "path": "select/12_Mariposa_Traicionera_(2020_Remasterizado)_Mana.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Maná, Alejandro Fernández",
+      "has_synced": true,
+      "path": "select/13_Mariposa_Traicionera_Maná,_Alejandro_Fernández.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mariposa Traicionera",
+      "artist": "Mana",
+      "has_synced": true,
+      "path": "select/14_Mariposa_Traicionera_Mana.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mariposa traicionera (En vivo)",
+      "artist": "MANA",
+      "has_synced": true,
+      "path": "select/15_Mariposa_traicionera_(En_vivo)_MANA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mariposa Traicionera",
+      "artist": "Maná",
+      "has_synced": false,
+      "path": "select/pl_01_Mariposa_Traicionera_Maná.txt"
+    }
+  ]
+}
